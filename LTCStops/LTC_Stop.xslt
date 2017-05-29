@@ -3,10 +3,10 @@
     xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl">
     <xsl:output method="html" indent="yes"/>
     <!--Created By: Sean Legge
-        Student Number: 0062897
+		Version: 0.1
         Date: March 26th 2016
         Title: LTC Project
-        
+        Purpose: Check to see if the users input is valid and returns values from the XML. Format the output correctly depending on if the input is valid or not. 
   
       Param for user input-->
     <xsl:param name="streetName"/>
