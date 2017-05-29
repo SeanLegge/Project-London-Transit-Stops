@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTCStops", "LTCStops\LTCStops.csproj", "{97DD1FD1-C0A6-423C-B1E4-5769DA1D4EEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F0FCE12-2042-4512-8C11-80490879153D}"
+	ProjectSection(SolutionItems) = preProject
+		LTC_Stop.xslt = LTC_Stop.xslt
+		ltcstops.xml = ltcstops.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DD1FD1-C0A6-423C-B1E4-5769DA1D4EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DD1FD1-C0A6-423C-B1E4-5769DA1D4EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DD1FD1-C0A6-423C-B1E4-5769DA1D4EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DD1FD1-C0A6-423C-B1E4-5769DA1D4EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

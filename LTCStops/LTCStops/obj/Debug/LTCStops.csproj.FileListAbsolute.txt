@@ -1,0 +1,9 @@
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\bin\Debug\LTCStops.exe.config
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\bin\Debug\LTCStops.exe
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\bin\Debug\LTCStops.pdb
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\obj\Debug\LTCStops.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\obj\Debug\LTCStops.exe
+C:\Users\Sean\Desktop\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\obj\Debug\LTCStops.pdb
+H:\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\bin\Debug\LTCStops.exe.config
+H:\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\obj\Debug\LTCStops.exe
+H:\Schoolwork\INFO-5064 XML\Project 2\LTCStops\LTCStops\obj\Debug\LTCStops.pdb
