@@ -5,9 +5,8 @@ using System.IO;
 namespace LTCStops
 {
     //Created by: Sean Legge
-    //Student Number: 0062897
     //Date: March 26th 2016
-    //Create a c# console program that takes in user input and passes it into the xslt to be used to search the xml file.
+    //Create a C# console program that takes in user input and passes it into the xslt to be used to search the xml file.
     class Program
     {
         private const string XML_FILE = @"..\..\..\ltcstops.xml";
