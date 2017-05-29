@@ -6,6 +6,7 @@ namespace LTCStops
 {
     //Created by: Sean Legge
     //Date: March 26th 2016
+	//Version 0.1
     //Create a C# console program that takes in user input and passes it into the xslt to be used to search the xml file.
     class Program
     {
@@ -14,13 +15,13 @@ namespace LTCStops
         private const string HTML_FILE = @"..\..\..\StreetStops.html";
         static void Main(string[] args)
         {
-            // Display a title
+            // Display a title to the user 
             Console.WriteLine("Generate a list of London transit bus stops based the users input.");
 
             string streetName;
             
 
-                // Get the name of a character from the user
+                // Prompt the user to enter a street name that they wish to find a bus stop for.
                 Console.Write("\nEnter the name of the street you wish to find the bus stops for: ");
                 streetName = Console.ReadLine();
 
